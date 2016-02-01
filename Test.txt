@@ -11,3 +11,5 @@ line 4 master
 line 5 origin
 
 line 6 GG
+
+line 7 origin
